@@ -1,7 +1,3 @@
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/alalearl"/>
-</a>
-
 ![👋 Hi, my name is Earl](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 
 ![Profile views](https://komarev.com/ghpvc/?username=alalearl&label=Profile%20views&color=0e75b6&style=flat)
@@ -21,6 +17,9 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - ⚡ Fun fact: **I'va no idea why my code is working**
+<hr>
+<h3 align="center">My Farm</h3> 
+<img style="width:100%" src="https://render.gitanimals.org/farms/alalearl"/>
 
  **<h3 align="center">Skills</h3>**
 
