@@ -1,3 +1,7 @@
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{username}"/>
+</a>
+
 ![👋 Hi, my name is Earl](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 
 ![Profile views](https://komarev.com/ghpvc/?username=alalearl&label=Profile%20views&color=0e75b6&style=flat)
