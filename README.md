@@ -12,7 +12,7 @@
   </ul>
 </div>
 
- **<h3 align="left">Mostly addict with Javascript, Typescript. Mainly with PHP,laravel. Interest with Ruby,Go,Python, .NET Core .Finally with games 😶‍🌫️</h3>**
+ **<h3 align="left">Mostly addict with Javascript, Typescript. used to PHP,laravel before. Interest with Ruby,Go,Python, Rust and ofcourse games! 😶‍🌫️</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
